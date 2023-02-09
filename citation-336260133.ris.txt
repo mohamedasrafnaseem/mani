@@ -1,0 +1,8 @@
+TY  - BOOK
+AU  - Al-Zoubi, Hussein
+PY  - 2019/06/01
+SP  - 10
+EP  - 13
+T1  - Efficient Task Scheduling for Applications on Clouds
+DO  - 10.1109/CSCloud/EdgeCom.2019.00012
+ER  - 
